@@ -93,3 +93,53 @@ else {
 
 string phrase = "Your number is " + ((number > 10) ? "greater than 10" : "not greater than 10");
 System.Console.WriteLine();
+
+//switch case statements
+//are best used when the option we want to consider are particular, finite, and/or incremental
+
+/*
+switch (variable)
+{
+    case(value1):
+    {
+        //some code to execture if variable == value1
+    }
+    case(value2):
+    {
+        //some code to execture if variable == value2
+    }
+    case(value3):
+    case(value4):
+    {
+        //some code to execute if variable == value3 or vaule4
+    }
+    default:
+    {
+        //some code to execute if variable != to any other case*
+    }
+}
+//------
+*/
+
+//-------------
+System.Console.WriteLine("Enter an option 1-4 ");
+input = Console.ReadLine();
+int option = 0;
+
+if (input != null) option = int.Parse(input);
+
+switch (option)
+{
+    case 1:
+    {
+        System.Console.WriteLine("You have chosen option 1. You win $1.");
+    }
+    case 2:
+    {
+        System.Console.WriteLine("You have chosen option 2. You win $2.");
+    }
+    default:
+    {
+        System.Console.WriteLine("You did not choose an option 1-4. Please try againg.");
+    }
+}
