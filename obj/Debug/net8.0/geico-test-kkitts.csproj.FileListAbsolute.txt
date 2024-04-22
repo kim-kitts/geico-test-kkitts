@@ -1,0 +1,5 @@
+C:\Users\A154862\Documents\Revature\geico-test-kkitts\obj\Debug\net8.0\geico-test-kkitts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A154862\Documents\Revature\geico-test-kkitts\obj\Debug\net8.0\geico-test-kkitts.AssemblyInfoInputs.cache
+C:\Users\A154862\Documents\Revature\geico-test-kkitts\obj\Debug\net8.0\geico-test-kkitts.AssemblyInfo.cs
+C:\Users\A154862\Documents\Revature\geico-test-kkitts\obj\Debug\net8.0\geico-test-kkitts.csproj.CoreCompileInputs.cache
+C:\Users\A154862\Documents\Revature\geico-test-kkitts\obj\Debug\net8.0\geico-test-kkitts.sourcelink.json
